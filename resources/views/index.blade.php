@@ -1,5 +1,5 @@
 <x-layout>
-    <h1>HELLO WORLD</h1>
+    <h1>HELLO WORLD You can do it</h1>
     <x-card>
     <div class="flex flex-col items-center">
         <a href="/register"
