@@ -1,5 +1,9 @@
 <x-layout>
-    <h1>HELLO WORLD You can do it yurika</h1>
+<<<<<<< HEAD
+    <h1>HELLO WORLD You can do it</h1>
+=======
+    <h1>HELLO WORLD</h1>
+>>>>>>> UpdatedIndex
     <x-card>
     <div class="flex flex-col items-center">
         <a href="/register"
